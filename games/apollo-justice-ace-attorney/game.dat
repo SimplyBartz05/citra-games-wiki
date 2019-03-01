@@ -1,0 +1,10 @@
+title = "Apollo Justice: Ace Attorney"
+description = "\"Apollo Justice: Ace Attorney\" is a visual novel adventure video game developed by Capcom. The game takes place seven years after the previous game, \"Phoenix Wright: Ace Attorney − Trials and Tribulations\". Apollo Justice, a rookie attorney, is the new protagonist, working alongside young magician Trucy on four cases. The player's goal is to get their clients declared not guilty; to do this, they investigate the cases and cross-examine witnesses."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001BD200"
+region = "usa"
+release_date = "2017-11-21"
