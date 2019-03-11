@@ -1,0 +1,10 @@
+title = "Apollo Justice: Ace Attorney"
+description = "Apollo Justice: Ace Attorney is a visual novel adventure video game developed by Capcom. It is the fourth title in the Ace Attorney series. It follows rookie attorney Apollo Justice's first four cases, teaming up alongside previous protagonist Phoenix Wright, his daughter Trucy, detective Ema Skye, and prosecutor Klavier Gavin, in reaching for the truth behind his cases."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001BD200"
+region = "usa"
+release_date = "2008-02-19"
